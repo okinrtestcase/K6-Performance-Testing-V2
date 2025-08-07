@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://reqres.in/api",
+  "auth_register": {
+    "api_key": "reqres-free-v1",
+    "email": "eve.holt@reqres.in",
+    "email_invalid": "eve.holt@reqres.in",
+    "password1": "pistol",
+    "password2": "cityslicka"
+  }
+}
