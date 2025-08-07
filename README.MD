@@ -30,7 +30,7 @@ Make sure you have the following installed:
 
 - ✅ [K6](https://k6.io/docs/getting-started/installation/)
 - ✅ Node.js (only if you want to generate test data dynamically)
-- ✅ [Grafana](https://grafana.com/) if you're using dashboards to manage our report
+- ✅ [Grafana](https://grafana.com/) if you're using dashboards to manage your report
 
 ---
 
