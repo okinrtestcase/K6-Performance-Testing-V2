@@ -134,7 +134,7 @@ If no environment variable is provided, it will default to the smoke test.
 #### ▶ Run With Specific Test Environment
 
 ```bash
-k6 run main.js TEST_ENV=load
+k6 run --out 'web-dashboard' main.js --env TEST=load
 ```
 
 You can replace the ``TEST_ENV`` value with ``load``, ``stress``, ``smoke``, ``spike``, or any other scenario you need.
